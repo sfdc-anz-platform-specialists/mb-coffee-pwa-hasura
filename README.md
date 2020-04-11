@@ -8,7 +8,7 @@ Based on this great [PWA code workshop](https://www.freecodecamp.org/news/build-
   -Heroku Connect
   
 ### Installation
-Coming
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 
