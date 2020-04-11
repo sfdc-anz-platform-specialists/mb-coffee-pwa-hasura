@@ -1,0 +1,8 @@
+{
+  "name": "PWA Hasura Coffee App",
+  "description": "A PWA using node.js, Express, Hasura, Postgres , Heroku Connect",
+  "repository": "https://github.com/sfdc-anz-platform-specialists/mb-coffee-pwa-hasura",
+  "keywords": ["node", "express", "static"],
+"env": {
+  }
+}
