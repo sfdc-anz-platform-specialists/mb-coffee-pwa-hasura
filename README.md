@@ -1,6 +1,6 @@
 # PWA Coffee App
 
-Based on this great [PWA code workshop] (https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/) v4+ to run.
+Based on this great [PWA code workshop](https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/)
 # Features
 
   -Hasura
@@ -9,3 +9,20 @@ Based on this great [PWA code workshop] (https://www.freecodecamp.org/news/build
   
 ### Installation
 Coming
+
+
+
+
+
+
+
+```
+
+
+
+
+
+
+
+
+
