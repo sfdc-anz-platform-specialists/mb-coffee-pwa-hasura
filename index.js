@@ -6,7 +6,7 @@ var path = require('path');
 var request = require('request');
 var options = {
   'method': 'POST',
-  'url': 'https://mb-hasura-mikebnibs3.herokuapp.com/v1alpha1/graphql',
+  'url': 'https://mb-hasura-engine.herokuapp.com/v1alpha1/graphql',
   'headers': {
     'Content-Type': 'application/json'
   },
