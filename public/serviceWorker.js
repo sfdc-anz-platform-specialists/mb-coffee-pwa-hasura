@@ -57,6 +57,7 @@ self.addEventListener('fetch', (evt) => {
               return response;
             }).catch((err) => {
               // Network request failed, try to get it from the cache.
+              console.log('[ServiceWorker] Fetch - failed on network, trying cache: ',evt.request.url);
               return cache.match(evt.request);
             });
       }));
